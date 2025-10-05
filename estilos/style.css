@@ -1,9 +1,7 @@
 body {
-    background-color: rgba(185, 182, 179, 0.384);
-    max-width: 100%;
+    background: linear-gradient(135deg, rgba(185, 182, 179, 0.384) 0%, rgba(220, 215, 210, 0.5) 100%);    max-width: 100%;
     margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
-    min-height: 100vh;
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;    min-height: 100vh;
     display: flex;
     flex-direction: column;
 }
